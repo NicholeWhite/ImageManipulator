@@ -1,7 +1,4 @@
 # ImageManipulator
-### Purpose
-The first part of the project 
-
 #### Part 1
 - Represents an image as a doubly linked list structure, with each node representing one pixel
 - Carves the image and removes nodes based on tolerance specifications; reduces memory used for the structure
